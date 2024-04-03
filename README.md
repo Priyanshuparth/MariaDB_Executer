@@ -13,7 +13,7 @@ MariaDB Executer is a Java application built in NetBeans IDE that provides a gra
 - Graphical User Interface (GUI) for easy interaction.
 - Ability to input and execute MySQL queries.
 - View table outputs directly within the application.
-- Connects to MySQL on port 3036.
+- Connects to MySQL on port 3306.
 - No extensive setup required, simply open the project in NetBeans and execute.
 
 ## Prerequisites
